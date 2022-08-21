@@ -1,5 +1,5 @@
 # TheCalculator
-A simple Calculator made with Start2Impact Academy Tutorial: https://www.youtube.com/watch?v=Ki0XXrlKlHY
+A simple Calculator made with Start2Impact Academy Tutorial: https://www.youtube.com/watch?v=j59qQ7YWLxw
 
 For the second module of the academy, "Javascript Basic", the academy suggest to follow the linked youtube tutorial as an exercise.
 
